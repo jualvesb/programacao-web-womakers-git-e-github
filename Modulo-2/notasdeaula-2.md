@@ -1,6 +1,14 @@
 ## Notas de aula referentes ao módulo 2 do curso git e github da Womakers.
 
 
-### nota 1
+### git status
+    **verificar o status dos arquivos e pastas dentro do nosso repositório.**
 
-### nota 2
+### git add
+### git add .
+    **adicionar todos os arquivos para a esteira de commit.**
+
+### git add [caminho do arquivo]
+    **adicionar um arquivo em específico**
+    
+
