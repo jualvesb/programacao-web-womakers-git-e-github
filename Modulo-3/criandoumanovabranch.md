@@ -14,3 +14,5 @@ Para criar a branch pelo github:
 Caso queira excluir uma branch pelo github
 1. Vá na sessão de listagem de branches
 2.Clique no ícone da lixeira para realizar a exclusão dessa branch.
+
+git fetch é tipo um pull, mas a ideia é pegar todas as alterações e commit do outro.
